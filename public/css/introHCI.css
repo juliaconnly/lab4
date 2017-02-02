@@ -11,7 +11,7 @@
 
 .jumbotron {
 	position: relative;
-	background: none;
+	background-image: url(http://www.icelandprocruises.co.uk/media/img/gallery/home/0002-gallery-iceland-waterfall-1.jpg);
 }
 
 .jumbotron:after {
@@ -27,7 +27,7 @@
 }
 
 .jumbotron p {
-     color: #6e6e6e;
+     color: #FFFFFF;
 }
 
 .project a {
